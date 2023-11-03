@@ -1,0 +1,17 @@
+.body{
+    background-image: url(IMG-20230605-WA0004.jpg);
+    background-size: contain;
+}
+.box{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 60%;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    font-family: Arial, sans-serif;
+    background-color: black;
+    opacity: 0.6;
+    color: white;
+}
